@@ -1,5 +1,5 @@
-# futvalue
-FutValue - A machine learning model that predicts football player's value
+# FutValue
+A machine learning model that predicts football player's value
 
 **Aim: Predict the market value of football players**
 
